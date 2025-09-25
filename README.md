@@ -1,1 +1,1 @@
-# Mini-Max-Sum
+# Mini-Max-Sum This program reads a list of integers, calculates the minimum and maximum sums of four out of five elements, and prints both sums. The miniMaxSum function sorts the list, sums the smallest four and largest four numbers, and outputs the results.
